@@ -155,12 +155,27 @@ These issues were resolved through SQL data cleaning and careful visualization d
 This project demonstrates how **SQL Server and Power BI can be integrated to perform scalable and effective data analytics on large real-world datasets**. The dashboard provides valuable insights into UK migration patterns and highlights the importance of data-driven decision making in policy analysis.
 
 ---
+## Project Demonstration Video
 
+A full walkthrough of the project, including the SQL database setup, data cleaning process, Power BI data modeling, and dashboard visualizations, can be viewed here:
+
+Project Video:  
+Watch the Project Demonstration - https://drive.google.com/drive/folders/1qdVoqFe84GC61AB6eCCenbvRQ0ryT3T6?usp=sharing
+
+The video explains:
+- Dataset overview
+- SQL Server database creation and data cleaning
+- Table structures and queries
+- Power BI connection and data modeling
+- DAX calculations
+- Interactive dashboard features and insights
+  
+---
 ## Authors
 Group: **Avengers Plus**
 
-- WMD Subhashwaree  
 - GGI Gamanayaka  
+- WMD Subhashwaree  
 - JANI Jayawardhana  
 
 BSc in Applied Data Science Communication  
